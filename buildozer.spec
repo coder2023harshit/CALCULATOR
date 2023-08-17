@@ -4,7 +4,7 @@
 title = CALCULATOR
 
 # (str) Package name
-package.name = CALCULATOR
+package.name = CALCULATORapk
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.novfensec
