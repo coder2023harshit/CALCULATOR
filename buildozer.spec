@@ -1,10 +1,10 @@
 [app]
 
 # (str) Title of your application
-title = CALCULATOR
+title = Calculator
 
 # (str) Package name
-package.name = CALCULATORapk
+package.name = Calculatorapk
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.novfensec
